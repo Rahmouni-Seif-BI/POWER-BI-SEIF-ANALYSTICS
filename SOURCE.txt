@@ -1,0 +1,12 @@
+BD : https://data.world/d1gi/youtube-crisis-actor-search-and-recommendation-network/workspace/file?filename=YouTube+Crisis+Actor+Video+List_Cut_2_24_18+-+Youtube_Crisis_actor_nodes_only.gexf.csv
+
+
+==> Lecteur CSV : https://products.aspose.app/cells/fr/viewer/csv
+
+==> Awsome Dashbord: https://training.bielite.com/contest-april-2021-youtube-analysis/
+
+==> Icons PNG Format: https://www.flaticon.com/
+
+
+==================================================================================
+

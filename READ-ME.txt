@@ -1,0 +1,2 @@
+PS: To navigate between pages you just have to click on CTRL+(page icon) 
+EXAMPLE: CTRL+(ICON "JAIME") ==> Navigation between pages
